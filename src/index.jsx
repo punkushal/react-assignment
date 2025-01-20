@@ -151,5 +151,5 @@ const styles = {
       </div>
     );
   };
-// 5) Show the component
+
 root.render(<WorkflowContainer/>)
